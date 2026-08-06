@@ -1488,7 +1488,7 @@ local function buildGUI()
         Position = UDim2.fromOffset(8, 158),
         BackgroundTransparency = 1,
         RichText = true,
-        Text = '<font color="#77718a">discord.gg/</font><font color="#a85cff"><b>fexhub</b></font>',
+        Text = '<font color="#77718a">madeby/</font><font color="#a85cff"><b>shxdow</b></font>',
         TextColor3 = Color3.fromRGB(170, 164, 190),
         TextSize = 8,
         Font = Enum.Font.GothamBold,
